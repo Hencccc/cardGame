@@ -1,0 +1,3 @@
+﻿  Kortspel.cpp
+C:\Users\Henric\source\repos\Kortspel\Kortspel\Kortspel.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Kortspel.vcxproj -> C:\Users\Henric\source\repos\Kortspel\Debug\Kortspel.exe
